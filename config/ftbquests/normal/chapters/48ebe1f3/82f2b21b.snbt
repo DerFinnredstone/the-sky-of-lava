@@ -1,0 +1,21 @@
+{
+	x: 0.0d,
+	y: 3.0d,
+	dependencies: [
+		"df97f16d"
+	],
+	tasks: [{
+		uid: "06fb0d53",
+		type: "item",
+		items: [{
+			item: "botania:fertilizer"
+		}]
+	},
+	{
+		uid: "660d654f",
+		type: "item",
+		items: [{
+			item: "minecraft:dye 1 15"
+		}]
+	}]
+}

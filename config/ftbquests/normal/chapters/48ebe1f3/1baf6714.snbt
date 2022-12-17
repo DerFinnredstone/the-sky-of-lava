@@ -1,0 +1,26 @@
+{
+	x: 1.5d,
+	y: 1.5d,
+	shape: "octagon",
+	dependencies: [
+		"df97f16d"
+	],
+	tasks: [{
+		uid: "054b50f1",
+		type: "kill",
+		entity: "minecraft:zombie",
+		value: 10L
+	},
+	{
+		uid: "1cd0a9bf",
+		type: "kill",
+		entity: "minecraft:skeleton",
+		value: 10L
+	},
+	{
+		uid: "0337b7e0",
+		type: "kill",
+		entity: "minecraft:spider",
+		value: 10L
+	}]
+}

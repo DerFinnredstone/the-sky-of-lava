@@ -1,0 +1,16 @@
+# Ordner
+/saves/test
+/downloads
+/journeymap
+/logs
+/patchouli_books
+/astralsorcery
+/resourcepacks
+
+
+# Files
+BotaniaVars.dat
+crafttweaker.log
+imgui.ini
+*.json
+
