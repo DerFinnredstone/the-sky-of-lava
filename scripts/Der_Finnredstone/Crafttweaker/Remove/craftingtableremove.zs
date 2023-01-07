@@ -24,7 +24,7 @@ recipes.remove(<extendedcrafting:material:8>);
 recipes.removeShapeless(<minecraft:cobblestone>, [<ore:pebble>,<ore:pebble>,<ore:pebble>,<ore:pebble>]);
 recipes.remove(<botania:pestleandmortar>);
 
-//Tconstruct
+//Tconstruct and Tcomplement
 recipes.remove(<tconstruct:pattern>);
 recipes.remove(<tconstruct:tooltables>);
 recipes.remove(<tconstruct:tooltables:1>);
@@ -212,6 +212,10 @@ recipes.remove(<thermalfoundation:material:23>);
 
 //IC2
 recipes.remove(<ic2:crafting:1>);
+recipes.remove(<ic2:forge_hammer>);
+recipes.remove(<ic2:plate:1>);
+recipes.remove(<ic2:casing:3>);
+recipes.remove(<ic2:casing:5>);
 
 //Ae2
 recipes.remove(<appliedenergistics2:material:40>);
@@ -227,3 +231,6 @@ recipes.remove(<buildcraftcore:gear_diamond>);
 recipes.remove(<prodigytech:rotary_grinder>);
 recipes.remove(<prodigytech:solderer>);
 recipes.remove(<prodigytech:explosion_furnace>);
+
+//Embers
+recipes.remove(<embers:plate_copper>);
