@@ -21,7 +21,7 @@ knightslime                                       (tconstruct:molten_knightslime
 cobalt                                            (tconstruct:molten_cobalt)                                                       = Molten Cobalt
 ardite                                            (tconstruct:molten_ardite)                                                       = Molten Ardite
 manyullyn                                         (tconstruct:molten_manyullyn)                                                    = Molten Manyullyn
-copper                                            (tconstruct:molten_copper)                                                       = Molten Copper
+copper                                            (tconstruct:molten_copper)                                                       = Molten Kappa
 bronze                                            (tconstruct:molten_bronze)                                                       = Molten Bronze
 lead                                              (tconstruct:molten_lead)                                                         = Molten Lead
 silver                                            (tconstruct:molten_silver)                                                       = Molten Silver

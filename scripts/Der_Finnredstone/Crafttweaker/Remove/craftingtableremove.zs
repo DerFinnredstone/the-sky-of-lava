@@ -1,4 +1,4 @@
-//All the recipes where I'm was not funny must be remove
+//All the recipes where I'm was not funny must be remove from Crafting Table
 
 //Minecraft
 recipes.remove(<minecraft:crafting_table>);
@@ -24,7 +24,7 @@ recipes.remove(<extendedcrafting:material:8>);
 recipes.removeShapeless(<minecraft:cobblestone>, [<ore:pebble>,<ore:pebble>,<ore:pebble>,<ore:pebble>]);
 recipes.remove(<botania:pestleandmortar>);
 
-//Tconstruct and Tcomplement
+//Tconstruct and Tcomplement and Conarm
 recipes.remove(<tconstruct:pattern>);
 recipes.remove(<tconstruct:tooltables>);
 recipes.remove(<tconstruct:tooltables:1>);
@@ -47,6 +47,7 @@ recipes.remove(<tconstruct:seared_tank>);
 recipes.remove(<tconstruct:seared_slab:3>);
 recipes.remove(<tconstruct:seared_furnace_controller>);
 recipes.remove(<tconstruct:smeltery_controller>);
+recipes.remove(<conarm:armorstation>);
 
 //Excompressum
 recipes.remove(<excompressum:heavy_sieve>);
@@ -62,6 +63,17 @@ recipes.remove(<excompressum:auto_sieve>);
 recipes.remove(<excompressum:auto_heavy_sieve>);
 recipes.remove(<excompressum:auto_compressor>);
 recipes.remove(<excompressum:auto_compressor_rationing>);
+recipes.remove(<excompressum:compressed_block>);
+recipes.remove(<excompressum:compressed_block:1>);
+recipes.remove(<excompressum:compressed_block:2>);
+recipes.remove(<excompressum:compressed_block:3>);
+recipes.remove(<excompressum:compressed_block:4>);
+recipes.remove(<excompressum:compressed_block:5>);
+recipes.remove(<excompressum:compressed_block:6>);
+recipes.remove(<excompressum:compressed_block:7>);
+recipes.remove(<excompressum:compressed_block:8>);
+recipes.remove(<excompressum:compressed_block:9>);
+recipes.remove(<excompressum:compressed_block:10>);
 
 //Exnihilocreatio
 recipes.remove(<exnihilocreatio:block_sieve>);

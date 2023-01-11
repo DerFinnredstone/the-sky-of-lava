@@ -1,4 +1,4 @@
-//All Shaped recipe from Tconstruct
+//All Shaped recipe from ultimate-skyblock-resource-generator-shaped
 
 //1st Chapter First Resources
 

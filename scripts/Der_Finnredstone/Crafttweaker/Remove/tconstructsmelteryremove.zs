@@ -1,4 +1,4 @@
-//All the recipes where I'm was not funny must be remove
+//All the recipes where I'm was not funny must be remove from Smeltery
 
 //Basin
 

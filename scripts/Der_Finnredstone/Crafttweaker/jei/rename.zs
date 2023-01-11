@@ -1,4 +1,4 @@
-//All the recipes where I'm was not funny must be remove
+//All the recipes where I'm was not funny must be rename
 
 //Import
 import crafttweaker.item.IItemStack;
@@ -32,26 +32,26 @@ for item in blackIronItems {
 }
 
 //Cell -> Machine
-val frameempty = [
+val framemachine = [
     <thermalexpansion:frame:129>,
     <thermalexpansion:frame:130>,
     <thermalexpansion:frame:131>,
     <thermalexpansion:frame:132>
 ] as IItemStack[];
 
-for item in frameempty {
+for item in framemachine {
     val newName = item.displayName.replace("Cell", "Machine");
     item.displayName = newName;
 }
 
-//(Empty) -> Machine
-val frame = [
+//(Empty) ->
+val empty = [
     <thermalexpansion:frame:130>,
     <thermalexpansion:frame:131>,
     <thermalexpansion:frame:132>
 ] as IItemStack[];
 
-for item in frame {
+for item in empty {
     val newName = item.displayName.replace("(Empty)", "");
     item.displayName = newName;
 }

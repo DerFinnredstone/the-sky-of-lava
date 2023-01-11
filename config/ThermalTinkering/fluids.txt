@@ -15,7 +15,7 @@ manyullyn                                         (tconstruct:molten_manyullyn) 
 knightslime                                       (tconstruct:molten_knightslime)                                                  = Molten Knightslime
 alubrass                                          (tconstruct:molten_alubrass)                                                     = Molten Aluminum Brass
 brass                                             (tconstruct:molten_brass)                                                        = Molten Brass
-copper                                            (tconstruct:molten_copper)                                                       = Molten Copper
+copper                                            (tconstruct:molten_copper)                                                       = Molten Kappa
 tin                                               (tconstruct:molten_tin)                                                          = Molten Tin
 bronze                                            (tconstruct:molten_bronze)                                                       = Molten Bronze
 zinc                                              (tconstruct:molten_zinc)                                                         = Molten Zinc
@@ -130,7 +130,11 @@ dark_steel                                        (enderio:block_fluid_dark_stee
 soularium                                         (enderio:block_fluid_soularium)                                                  = Molten Soularium
 end_steel                                         (enderio:block_fluid_end_steel)                                                  = Molten End Steel
 construction_alloy                                (enderio:block_fluid_construction_alloy)                                         = Molten Iron Alloy
+oil_soul                                          ([no block])                                                                     = Soul Crude
+oil_dwarf                                         ([no block])                                                                     = Dwarven Oil
+gas_dwarf                                         ([no block])                                                                     = Dwarven Fuel Gas
 dawnstone                                         (embers:dawnstone)                                                               = Molten Dawnstone
+alchemical_redstone                               (embers:alchemical_redstone)                                                     = Alchemical Slurry
 witchwater                                        (exnihilocreatio:witchwater)                                                     = Witchwater
 liquid_souls                                      (hwell:fluid_liquid_souls)                                                       = Liquid Souls
 essence                                           (industrialforegoing:essence)                                                    = Essence

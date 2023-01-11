@@ -11,7 +11,7 @@ bobView:true
 anaglyph3d:false
 maxFps:200
 fboEnable:true
-difficulty:0
+difficulty:2
 fancyGraphics:true
 ao:2
 renderClouds:false
@@ -91,6 +91,34 @@ key_Mode Switch Key:0
 key_Side Inventory Key:0
 key_Hub Expand Key:0
 key_keybind.baublesinventory:0
+key_quark.emote.no:0
+key_quark.emote.yes:0
+key_quark.emote.wave:0
+key_quark.emote.salute:0
+key_quark.emote.cheer:0
+key_quark.emote.clap:0
+key_quark.emote.think:0
+key_quark.emote.point:0
+key_quark.emote.shrug:0
+key_quark.emote.headbang:0
+key_quark.emote.weep:0
+key_quark.emote.facepalm:0
+key_quark.emote.dance:0
+key_quark.emote.tpose:0
+key_quark.emote.dab:0
+key_quark.emote.jet:0
+key_quark.emote.exorcist:0
+key_quark.emote.zombie:0
+key_quark.keybind.lockBuilding:37
+key_quark.keybind.toggleAutojump:48
+key_quark.keybind.dropoff:0
+key_quark.keybind.changeHotbar:44
+key_quark.keybind.chestSort:0
+key_quark.keybind.chestDropoff:0
+key_quark.keybind.chestMerge:0
+key_quark.keybind.chestRestock:0
+key_quark.keybind.chestExtract:0
+key_quark.keybind.playerSort:0
 key_bloodmagic.keybind.open_holding:0
 key_bloodmagic.keybind.cycle_holding_pos:0
 key_bloodmagic.keybind.cycle_holding_neg:0
@@ -98,7 +126,7 @@ key_key.conarm.toggle_helm.desc:0
 key_key.conarm.toggle_chest.desc:0
 key_key.conarm.toggle_leg.desc:0
 key_cos.key.opencosarmorinventory:0
-key_key.ftbultimine:0
+key_key.ftbultimine:41
 key_key.ftbutilities.nbt:0
 key_key.ftbutilities.trash:0
 key_key.ftbquests.quests:15
@@ -128,6 +156,7 @@ key_key.connected_area:0
 key_key.rotate_mirror:0
 key_key.material_list:0
 key_key.cofh.multimode:0
+key_key.clipboardPaste:210
 key_key.refinedstorage.focusSearchBar:0
 key_key.refinedstorage.clearGridCraftingMatrix:0
 key_key.refinedstorage.openWirelessGrid:0
@@ -197,4 +226,4 @@ modelPart_right_sleeve:true
 modelPart_left_pants_leg:true
 modelPart_right_pants_leg:true
 modelPart_hat:true
-key_key.ftbultimine_settings:0
+key_key.ftbultimine_settings:47
