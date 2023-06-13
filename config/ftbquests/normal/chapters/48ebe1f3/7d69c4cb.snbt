@@ -1,0 +1,16 @@
+{
+	x: 1.5d,
+	y: 5.5d,
+	dependencies: [
+		"cc7ff5fe",
+		"470db914",
+		"ec137064"
+	],
+	tasks: [{
+		uid: "64d5bcda",
+		type: "item",
+		items: [{
+			item: "contenttweaker:electromagnetic_matrix"
+		}]
+	}]
+}

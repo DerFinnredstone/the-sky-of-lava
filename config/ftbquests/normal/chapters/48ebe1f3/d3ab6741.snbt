@@ -1,0 +1,24 @@
+{
+	x: 0.0d,
+	y: 4.5d,
+	dependencies: [
+		"82f2b21b"
+	],
+	tasks: [{
+		uid: "094ad4bf",
+		type: "item",
+		items: [{
+			id: "botania:specialflower",
+			tag: {
+				type: "puredaisy"
+			}
+		}]
+	},
+	{
+		uid: "b24056cc",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blockmarble"
+		}]
+	}]
+}

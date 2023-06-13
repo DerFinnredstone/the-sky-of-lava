@@ -48,7 +48,8 @@ for item in framemachine {
 val empty = [
     <thermalexpansion:frame:130>,
     <thermalexpansion:frame:131>,
-    <thermalexpansion:frame:132>
+    <thermalexpansion:frame:132>,
+    <tzpframes:empty_basic_frame>
 ] as IItemStack[];
 
 for item in empty {

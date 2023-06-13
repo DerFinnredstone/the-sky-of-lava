@@ -243,6 +243,10 @@ recipes.remove(<buildcraftcore:gear_diamond>);
 recipes.remove(<prodigytech:rotary_grinder>);
 recipes.remove(<prodigytech:solderer>);
 recipes.remove(<prodigytech:explosion_furnace>);
+recipes.remove(<prodigytech:ore_refinery>);
 
 //Embers
 recipes.remove(<embers:plate_copper>);
+
+//Immersive
+recipes.remove(<immersiveengineering:tool>);

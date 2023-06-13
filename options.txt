@@ -11,7 +11,7 @@ bobView:true
 anaglyph3d:false
 maxFps:200
 fboEnable:true
-difficulty:2
+difficulty:0
 fancyGraphics:true
 ao:2
 renderClouds:false
@@ -73,8 +73,8 @@ key_key.smoothCamera:0
 key_key.fullscreen:87
 key_key.spectatorOutlines:0
 key_key.swapHands:33
-key_key.saveToolbarActivator:46
-key_key.loadToolbarActivator:45
+key_key.saveToolbarActivator:0
+key_key.loadToolbarActivator:0
 key_key.advancements:38
 key_key.hotbar.1:2
 key_key.hotbar.2:3
@@ -91,6 +91,14 @@ key_Mode Switch Key:0
 key_Side Inventory Key:0
 key_Hub Expand Key:0
 key_keybind.baublesinventory:0
+key_quark.keybind.dropoff:0
+key_quark.keybind.changeHotbar:0
+key_quark.keybind.chestSort:0
+key_quark.keybind.chestDropoff:0
+key_quark.keybind.chestMerge:0
+key_quark.keybind.chestRestock:0
+key_quark.keybind.chestExtract:0
+key_quark.keybind.playerSort:0
 key_quark.emote.no:0
 key_quark.emote.yes:0
 key_quark.emote.wave:0
@@ -109,16 +117,8 @@ key_quark.emote.dab:0
 key_quark.emote.jet:0
 key_quark.emote.exorcist:0
 key_quark.emote.zombie:0
-key_quark.keybind.lockBuilding:37
-key_quark.keybind.toggleAutojump:48
-key_quark.keybind.dropoff:0
-key_quark.keybind.changeHotbar:44
-key_quark.keybind.chestSort:0
-key_quark.keybind.chestDropoff:0
-key_quark.keybind.chestMerge:0
-key_quark.keybind.chestRestock:0
-key_quark.keybind.chestExtract:0
-key_quark.keybind.playerSort:0
+key_quark.keybind.toggleAutojump:0
+key_quark.keybind.lockBuilding:0
 key_bloodmagic.keybind.open_holding:0
 key_bloodmagic.keybind.cycle_holding_pos:0
 key_bloodmagic.keybind.cycle_holding_neg:0
@@ -129,6 +129,11 @@ key_cos.key.opencosarmorinventory:0
 key_key.ftbultimine:41
 key_key.ftbutilities.nbt:0
 key_key.ftbutilities.trash:0
+key_pe.key.armor_toggle:0
+key_pe.key.charge:0
+key_pe.key.extra_function:0
+key_pe.key.fire_projectile:0
+key_pe.key.mode:0
 key_key.ftbquests.quests:15
 key_key.ftbmoney.shop:0
 key_neat.keybind.toggle:0
@@ -156,7 +161,7 @@ key_key.connected_area:0
 key_key.rotate_mirror:0
 key_key.material_list:0
 key_key.cofh.multimode:0
-key_key.clipboardPaste:210
+key_key.clipboardPaste:0
 key_key.refinedstorage.focusSearchBar:0
 key_key.refinedstorage.clearGridCraftingMatrix:0
 key_key.refinedstorage.openWirelessGrid:0
@@ -167,9 +172,17 @@ key_mekanism.key.mode:0
 key_mekanism.key.armorMode:0
 key_mekanism.key.feetMode:0
 key_mekanism.key.voice:0
+key_key.integrateddynamics.logic_programmer_focus_search:0
+key_key.integrateddynamics.logic_programmer_open_rename:0
+key_key.integratedterminals.terminal.tab.next:0
+key_key.integratedterminals.terminal.tab.previous:0
+key_key.integratedterminals.terminal.craftinggrid.clearplayer:0
+key_key.integratedterminals.terminal.craftinggrid.clearstorage:0
+key_key.integratedterminals.terminal.craftinggrid.balance:0
 key_key.immersiveengineering.magnetEquip:0
 key_key.immersiveengineering.chemthrowerSwitch:0
 key_overloaded.key.noclip:0
+key_key.projectex.focusSearchBar:0
 key_key.taiga.alt_action:0
 key_key.pixelglasses:0
 key_enderio.keybind.inventory:0

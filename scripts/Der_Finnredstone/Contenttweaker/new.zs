@@ -46,18 +46,16 @@ boneShard.register();
 
 //Thaumium Aspectus
 var thaumAspectus = VanillaFactory.createItem("thaumium_aspectus");
-thaumAspectus.maxStackSize = 64;
+thaumAspectus.maxStackSize = 16;
 thaumAspectus.rarity = "common";
 thaumAspectus.register();
 
 //Rune Starlight
 var runeStarlight = VanillaFactory.createItem("rune_starlight");
-runeStarlight.maxStackSize = 64;
+runeStarlight.maxStackSize = 16;
 runeStarlight.rarity = "common";
 runeStarlight.register();
 
-//Ironwand One
-var wandIronwood = VanillaFactory.createItem("ironwood_wand_one");
-wandIronwood.maxStackSize = 1;
-wandIronwood.rarity = "common";
-wandIronwood.register();
+var runeblank = VanillaFactory.createItem("rune_blank");
+runeblank.maxStackSize = 16;
+runeblank.register();

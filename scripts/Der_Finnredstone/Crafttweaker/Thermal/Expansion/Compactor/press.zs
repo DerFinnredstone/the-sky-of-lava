@@ -4,3 +4,4 @@
 
 //Copper Plate -> Dense Copper Plate
 mods.thermalexpansion.Compactor.addPressRecipe(<ic2:plate:10>, <ic2:plate:1> * 9, 1500);
+mods.thermalexpansion.Compactor.addPressRecipe(<ic2:plate:1>, <ic2:plate:1>, 1500);

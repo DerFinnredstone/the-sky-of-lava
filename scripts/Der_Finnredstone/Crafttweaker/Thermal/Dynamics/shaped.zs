@@ -2,6 +2,6 @@
 
 //1st Chapter First Resources
 recipes.addShaped(<thermaldynamics:duct_0> * 3,
-[[<thermalfoundation:material:131>, <thermalfoundation:material:131>, <thermalfoundation:material:131>],
+[[<ore:ingotLead>, <ore:ingotLead>, <ore:ingotLead>],
 [<minecraft:redstone>, <minecraft:redstone>, <minecraft:redstone>],
-[<thermalfoundation:material:131>, <thermalfoundation:material:131>, <thermalfoundation:material:131>]]);
+[<ore:ingotLead>, <ore:ingotLead>, <ore:ingotLead>]]);
